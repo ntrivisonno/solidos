@@ -1,0 +1,16 @@
+# extensions to ignore
+# *.*~ evita las copias de seg de emacs
+
+# omitir carpetas
+apuntes/*
+pen_juancarlos_matlab/*
+popurri/comentarios.org
+
+
+# omitir archivos
+popurri/comentarios.org	 
+
+# omitir otros
+*.*~
+octave-workspace
+*.pdf
